@@ -1,21 +1,13 @@
 {
   "files": {
-    "main.css": "/NGtest/static/css/main.cd6c2185.css",
-    "main.js": "/NGtest/static/js/main.81ec050f.js",
-    "static/media/n3.svg": "/NGtest/static/media/n3.a9da0d92999f6172484df6ed9f385545.svg",
-    "static/media/n4.svg": "/NGtest/static/media/n4.1298a8432ad29884d6f8354dc9cf45fd.svg",
-    "static/media/n8.svg": "/NGtest/static/media/n8.2ee9e2cf33d0c33f40f61c9137c2c2c2.svg",
-    "static/media/n1.svg": "/NGtest/static/media/n1.d17b3c8238d5bdeff971b46156b50945.svg",
-    "static/media/n2.svg": "/NGtest/static/media/n2.094cf1104a0e0c4a6a5fbdd8fe7c8695.svg",
-    "static/media/n5.svg": "/NGtest/static/media/n5.e747e54c9e977bca872eeb792c1368be.svg",
-    "static/media/n6.svg": "/NGtest/static/media/n6.23367ab37126421a322a88746c67a587.svg",
-    "static/media/n7.svg": "/NGtest/static/media/n7.7ede0c9a918db8a49390fad01730a488.svg",
+    "main.css": "/NGtest/static/css/main.21c724c5.css",
+    "main.js": "/NGtest/static/js/main.1ee85e26.js",
     "index.html": "/NGtest/index.html",
-    "main.cd6c2185.css.map": "/NGtest/static/css/main.cd6c2185.css.map",
-    "main.81ec050f.js.map": "/NGtest/static/js/main.81ec050f.js.map"
+    "main.21c724c5.css.map": "/NGtest/static/css/main.21c724c5.css.map",
+    "main.1ee85e26.js.map": "/NGtest/static/js/main.1ee85e26.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd6c2185.css",
-    "static/js/main.81ec050f.js"
+    "static/css/main.21c724c5.css",
+    "static/js/main.1ee85e26.js"
   ]
 }
